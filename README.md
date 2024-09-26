@@ -3,7 +3,8 @@
 1. Завантажте Docker image з Docker Hub:  
 docker pull iperekrestov/university:gps-emulation-service
 2. Запустіть Docker контейнер, використовуючи наступну команду:  
-docker run --name gps-emulator -p 4001:4000 iperekrestov/university:gps-emulation-service  
+docker run --name gps-emulator -p 4001:4000 iperekrestov/university:gps-emulation-service
+
 Для зчитування даних з емулятора необхідно підключитися до нього через WebSocket:  
 wscat -c ws://localhost:4001
 
