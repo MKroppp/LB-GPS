@@ -1,4 +1,4 @@
-![6](https://github.com/user-attachments/assets/48811753-c03d-4489-8628-207fb79aa643)# LB-GPS
+# LB-GPS
 Емулятор вимірювальної частини GPS надається у вигляді Docker image під назвою iperekrestov/university/gps-emulation-service. Щоб запустити емулятор, виконайте наступні кроки:  
 1. Завантажте Docker image з Docker Hub:  
 docker pull iperekrestov/university:gps-emulation-service
