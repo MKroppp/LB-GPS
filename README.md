@@ -14,6 +14,6 @@ wscat -c ws://localhost:4001
 ![Код](https://github.com/MKroppp/LB-GPS/blob/main/Screenshots/3.png)  
 ![Код](https://github.com/MKroppp/LB-GPS/blob/main/Screenshots/4.png)  
 
-У застосунку можна змінювати параметри вимірювальної частини GPS.
+У застосунку можна змінювати параметри вимірювальної частини GPS.  
 ![Update](https://github.com/MKroppp/LB-GPS/blob/main/Screenshots/6.png)  
 ![Код](https://github.com/MKroppp/LB-GPS/blob/main/Screenshots/5.png)  
